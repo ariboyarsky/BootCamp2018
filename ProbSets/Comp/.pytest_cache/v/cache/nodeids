@@ -1,0 +1,14 @@
+[
+  "test_solutions.py::test_addition",
+  "test_solutions.py::test_smallest_factor",
+  "test_solutions.py::test_month",
+  "test_solutions.py::test_operator",
+  "test_solutions.py::test_complex_addition",
+  "test_solutions.py::test_complex_multiplication",
+  "test_solutions.py::test_complex_division",
+  "test_solutions.py::test_complex_str",
+  "test_solutions.py::test_complex_eq",
+  "test_solutions.py::test_complex_init",
+  "test_solutions.py::test_complex_conjugate",
+  "test_solutions.py::test_complex_norm"
+]
